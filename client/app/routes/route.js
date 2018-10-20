@@ -1,0 +1,8 @@
+export const HOME = '/home'
+export const LOGIN = '/login'
+export const SIGNUP = '/signup'
+export const OBED = '/obed'
+export const OBED2 = '/obed2'
+export const CARD = '/Card1'
+export const RUTA1 = '/Ruta1'
+export const RUTA2 = '/Ruta2'
